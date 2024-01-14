@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/about_me"
+        android:title="Обо мне" />
+    <item
+        android:id="@+id/my_education"
+        android:title="Моя учеба" />
+    <item
+        android:id="@+id/my_work"
+        android:title="Моя работа" />
+    <item
+        android:id="@+id/my_hobby"
+        android:title="Мое хобби" />
+    <item
+        android:id="@+id/my_plans"
+        android:title="Мои планы" />
+    <item
+        android:id="@+id/contacts"
+        android:title="Контакты" />
+</menu>

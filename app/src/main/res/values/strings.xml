@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Практика</string>
+    <string name="about_me_text">Тут будет описание для страницы "Обо мне"</string>
+</resources>
