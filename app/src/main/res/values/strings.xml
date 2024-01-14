@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Практика</string>
     <string name="about_me_text">Тут будет описание для страницы "Обо мне"</string>
+    <string name="contacts_text">Тут будет текст для страницы "Мои контакты"</string>
+    <string name="contacts_myPhone">Тут будет мой номер телефона</string>
+    <string name="contacts_myEmail">Мой адрес электронной почты: 05@mail.ru</string>
+    <string name="contacts_myGit">Мои работы можно найти тут: https://github.com/Kaesoron</string>
+    <string name="myStudy_text">Тут будет текст для страницы "Моя учеба"</string>
+    <string name="my_plans_text">Тут будет текст для страницы "Мои планы"</string>
+    <string name="hobby_text">Тут будет текст для страницы "Хобби"</string>
+    <string name="work_text">Тут будет текст для страницы "Работа"</string>
+    <string name="my_contacts_text">Тут будет текст для страницы "Контакты"</string>
 </resources>

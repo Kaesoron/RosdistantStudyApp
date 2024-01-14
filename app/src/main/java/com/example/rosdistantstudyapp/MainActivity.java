@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
             return true;
         } else if (itemId == R.id.my_education) {// Действие для пункта "Моя учеба"
-            Intent intent = new Intent(this, MyEducationActivity.class);
+            Intent intent = new Intent(this, MyEducation.class);
             startActivity(intent);
             return true;
         } else if (itemId == R.id.my_work) {// Действие для пункта "Моя работа"

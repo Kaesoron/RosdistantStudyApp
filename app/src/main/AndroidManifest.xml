@@ -22,7 +22,7 @@
         </activity>
         <activity android:name=".AboutMeActivity" />
         <activity android:name=".ContactsActivity" />
-        <activity android:name=".MyEducationActivity" />
+        <activity android:name=".MyEducation" />
         <activity android:name=".MyHobbyActivity" />
         <activity android:name=".MyPlansActivity" />
         <activity android:name=".MyWorkActivity" />

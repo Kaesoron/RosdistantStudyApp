@@ -20,24 +20,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/contacts_text"
+        android:text="@string/myStudy_text"
         android:textSize="24sp" />
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/contacts_myPhone"
-        android:textSize="24sp" />
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/contacts_myEmail"
-        android:textSize="24sp" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/contacts_myGit"
-        android:textSize="24sp" />
 </LinearLayout>
